@@ -1,3 +1,5 @@
+## Available Scripts in setting use their VK APP CODE in settings.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
